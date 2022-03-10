@@ -1,0 +1,120 @@
+@charset "UTF-8";
+body {
+	background-color: orange;
+	
+	
+	
+	
+}
+header {
+    width: 800px;
+    height: 400px;
+    background-color: #2BC83D;
+    background-image: url(../OneDrive/Documents/brazil/images/flag_of_brazeel.png);
+    margin: auto
+	
+}
+nav{
+    width: 800px;
+    height: 100px;
+    list-style: none;
+    float: none;
+    margin: auto;
+    display: block;		
+	background-color:#2BC83D;
+	text-align: center
+		
+}
+ul {
+	height: 100px;
+	list-style: none;
+	float:left;
+	
+}
+nav li {
+	display: block;
+	
+	
+	
+	
+}
+p {
+	background-color: #2BC83D;
+	margin:auto;
+	width: 800px;
+	text-align: center;
+	font-size: 50px
+	
+}
+
+
+
+li {
+	display: block;
+	text-align:center;
+	
+	
+}
+#container {
+height:auto;
+margin:auto;
+	
+	
+}
+
+
+
+
+main {
+    width: 650px;
+    height: 1985px;
+    background-color: #2BC83D;
+    margin: auto;
+	float: left;
+	font-size: 24px
+}
+aside {
+    width: 150px;
+    height: 1985px;
+    background-color: #489D54;
+	color: orange;
+	float: left;
+	margin-left: 305px
+	
+}
+a:link    {
+color: orange;
+text-decoration: none;
+background-color: #489D54
+}
+a:visited {
+color: black;
+text-decoration: none;
+}
+a:hover   {
+color: #489D54;
+padding: 10px;
+border-radius: 30px;
+background-color: orange;
+text-decoration: none
+	
+}
+a:active {
+text-decoration: none	
+	
+}
+.power {
+    display: block;
+}
+.bungus {
+	
+}
+.submit {
+	width: 170px;
+	height: 30px;
+	border-radius: 10px;
+	box-shadow: 6px 6px 35px 1px #000000;
+	color: orange
+	
+	
+}
